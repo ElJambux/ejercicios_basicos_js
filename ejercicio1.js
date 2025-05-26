@@ -24,14 +24,14 @@ let longitud;
 
 longitud = 10;
 
-/* Calcula la suma:
+/* 1.4 Calcula la suma:
 Crea una variable llamada suma y asigna el valor de altura + longitud. */
 
 let suma;
 
 suma = altura + longitud;
 
-/* Imprime los resultados:
+/* 1.5 Imprime los resultados:
 Muestra todas las variables por consola. */
 
 console.log(miSuperheroeFavorito);
